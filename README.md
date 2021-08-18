@@ -2,7 +2,11 @@
 
 
  <div>
-  -🤗 Sou desenvolvedor junior , atualmente procurando um emprego na área, gosto de estudar sobre tecnologia e fazer projetos .
+  -🤗 Sou desenvolvedor junior , atualmente procurando um emprego na área, gosto de estudar sobre tecnologia e fazer projetos.
+  -🙂 Estudo back-end e front-end , estou estudando para um dia ser um desenvolvedor full-stack de sucesso em minha carrera.
+  -🗺️ Atualmente moro em São Paulo.
+  -📚 Atualmente faço Análise e Desenvolvimento de Sistemos , irei no final do primeiro semestre de 2022
+  -📚 Estudo fora da faculdade também em cursos como a Alura e imersôes RockSeat e Alura.
  
   <a href="https://github.com/joaoalvesmuniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvesmuniz&layout=compact&langs_count=7&theme=dracula"/>
