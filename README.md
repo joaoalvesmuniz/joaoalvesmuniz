@@ -2,6 +2,8 @@
 
 
  <div>
+  -🤗 Sou desenvolvedor junior , atualmente procurando um emprego na área, gosto de estudar sobre tecnologia e fazer projetos .
+ 
   <a href="https://github.com/joaoalvesmuniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvesmuniz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
